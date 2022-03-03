@@ -1,5 +1,5 @@
 # EvacYOUate - Investigating trust towards post-earthquake evacuation robots with different voice properties
-This repository contains the supplementary material for an experiment created as part of the course *Human Robot Interaction* at Osnabrück University.
+This repository contains the supplementary material for an experiment created as part of the course *Human-robot interaction* at Osnabrück University.
 
 The guiding question of our experiment is: *How is trust towards evacuation robots affected by verbal communication differences in gender and authority?*
 
