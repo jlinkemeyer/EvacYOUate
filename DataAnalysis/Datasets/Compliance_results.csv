@@ -1,0 +1,9 @@
+Participant Nr,Condition_gender,Condition_speech,Condition,Step over,Unblocked door,Detour,Duck,Crawl,Get up,Aftershock
+1,male,authoritative,0 ,0,1,1,1,1,1,0
+2,female,authoritative,2,1,1,0,,,,0
+3,male,neutral,1,1,1,1,1,1,1,0
+4,female,neutral,3,0,1,1,0,1,1,0
+5,male,authoritative,0,1,1,1,1,1,,0
+6,female,authoritative,2,1,1,1,1,1,1,0
+7,female,neutral,3,0,1,0,,,,0
+8,male,neutral,1,1,1,1,,1,1,0
