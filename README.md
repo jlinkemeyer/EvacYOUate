@@ -8,7 +8,7 @@ Authors: Eliasz Brzeskot Ganning, Sophie Haas, Hanna Linder, Johanna Linkemeyer,
 ## Directories
 This repository contains three directories with the following contents:
 
-### DataAnalsysis
+### DataAnalysis
 ... contains the datasets (results from post-experiment questionnaire and compliance scores), the code to analyse said datasets and create the plots used in our paper, as well as those plots.
 
 ### NewAssets
