@@ -16,3 +16,5 @@ This repository contains three directories with the following contents:
 
 ### UnityProject
 ... is the full Unity project we created for our experiment. Please note that the version that is published in this repository is not the version we used in our experiment for the following reason: In the original experiment we used an existing house model. Licensing restrictions do not allow us to make the original experiment public, which is why we created the version of our experiment that is available here. In this version, the house is exchanged with a very basic house model created from scratch.
+
+*Note: [This video](https://drive.google.com/file/d/1ObYXJzP0cg4JJ8KfluW3UNHRbd1kGzoh/view?usp=sharing) shows one run of the Virtual Reality experiment.*
